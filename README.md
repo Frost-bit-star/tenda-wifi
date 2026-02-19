@@ -12,7 +12,7 @@ A simple Python package that allows to manage tenda router AC15.
 
 First of all, it has to instance a TendaAC15 object:
 
-If it run with default router ip "192.168.1.1":
+If it run with default router ip "192.168.0.1":
 
 ```python
 >>> t = tendawifi.TendaAC15()
